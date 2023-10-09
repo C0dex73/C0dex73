@@ -1,3 +1,3 @@
-Hey ! I'm Codex73 ( or @C0dex73 )
-I'm actually studying at the JDA High School
-My interests are varied, I can like sports as good as the programmation
+Hey ! I'm Codex ( @C0dex73 )
+A full time nerd that learned about programming and computer science in 6th grade.
+I have developed apps, games and website but my biggest project so far remains my 8bit Minecraft CPU : XENON (it is finished but so powerless that I will only upload his v2 form wich will be pipenable)
