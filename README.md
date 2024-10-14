@@ -4,7 +4,7 @@
 A versatile developer from France :fr:
 <table align="center">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={C0dex73}"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={C0dex73}" alt="summary card couldn't load"/></td>
     <!--<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0dex73&show_icons=true&theme=dark"/></td>-->
     <td><img src="https://github-readme-stats.vercel.app/api?username=C0dex73&show_icons=true&theme=dark"/></td>
   </tr>
