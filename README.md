@@ -45,5 +45,5 @@ A versatile developer from France :fr:
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
   </p>
 <p align="center">
-  :mailbox: How to reach me : <a href="https://dc.gg/shadow">Discord</a> or <a href="mailto:c0d3x73@gmail.com">E-mail</a>
+  :mailbox: How to reach me : <a href="https://discord.bitwise.re">Discord</a> or <a href="mailto:c0d3x73@gmail.com">E-mail</a>
 </p>
