@@ -12,14 +12,12 @@ A versatile developer from France :fr:
 <h3 align="center">My environnements :</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AMD-Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
   <br/>
   ----
   <br/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Intel-Core_i5_750-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/AMD-Radeon_HD_7800-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
