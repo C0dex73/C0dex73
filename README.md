@@ -22,7 +22,7 @@ A versatile developer from France :fr:
   <img src="https://img.shields.io/badge/Intel-Core_i5_750-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/AMD-Radeon_HD_7800-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </p>
-<h3 align="center">Skills :</h3>
+<h3 align="center">Programming Languages I use :</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
